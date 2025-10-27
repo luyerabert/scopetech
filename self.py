@@ -1,0 +1,7 @@
+print("Name: Luye rabert")
+print("DOB: 28.07.1998")
+print("Gender: male")
+print("Nationality: indian")
+print("Education: B.tech")
+print("Address: Manmalaimedu,pudur")
+print("Contact: 7397542100")
